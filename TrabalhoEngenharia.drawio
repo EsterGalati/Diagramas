@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T11:59:32.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wJjb3Pq-4gjefQ2SOzsj" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T12:00:50.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lStkONOJbCG3ovk69Frb" version="22.1.2" type="github">
   <diagram name="Página-1" id="053S5dsieRf6sA23STod">
     <mxGraphModel dx="2340" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -181,10 +181,10 @@
             <mxPoint x="770" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ipCxgiBCgopGdWfmosNe-4" value="Enviar e-mail de confirmação&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ipCxgiBCgopGdWfmosNe-4" value="Enviar e-mail&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ipCxgiBCgopGdWfmosNe-5" value="&amp;lt;&amp;lt;estender&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="ipCxgiBCgopGdWfmosNe-4">
+        <mxCell id="ipCxgiBCgopGdWfmosNe-5" value="&amp;lt;&amp;lt;incluir&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="ipCxgiBCgopGdWfmosNe-4">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="660" y="210" as="sourcePoint" />
             <mxPoint x="660" y="170" as="targetPoint" />
